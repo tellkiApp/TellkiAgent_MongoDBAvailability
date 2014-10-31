@@ -1,0 +1,21 @@
+{
+	"author": "guberni",
+	"name": "tellki-mongodb-availability-monitor",
+	"description": "Tellki MongoDB availability monitor",
+	"version": "0.0.1",
+	"keywords": ["tellki","monitor","mongodb","availability","real time"],
+	"homepage": "www.tellki.com",
+	"repository" : { 
+		"type" : "git", "url" : "https://github.com/tellkiApp/tellkiAgent_MongoDBAvailability.git"  
+	},
+	"main": "./lib/mongodb_availability_monitor",
+	"bin": {
+		"tellki-mongodb-availability-monitor": "./bin/tellki-mongodb-availability-monitor"
+	},
+	"dependencies": {
+        "mongodb": "~1.4.19"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
