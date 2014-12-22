@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-mongodb-availability-monitor",
 	"description": "Tellki MongoDB availability monitor",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"keywords": ["tellki","monitor","mongodb","availability","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
