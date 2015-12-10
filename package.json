@@ -13,7 +13,7 @@
 		"tellki-mongodb-availability-monitor": "./bin/tellki-mongodb-availability-monitor"
 	},
 	"dependencies": {
-       "mongodb": "~2.0"
+       "mongodb": "~2.1.0"
 	},
 	"engines": {
 		"node": "*"
